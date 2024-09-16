@@ -1,4 +1,4 @@
-# cmf-compiling-fixer
+# CMF compiling fixer. Fix errors easier.
 Hi. Are you seen error of CMF compiling in Minglium?
 I provided it on images. So, right now i coded a compiling - fixer of CMF, to replace the errors with directly going to this fixer.
 Its so angry error for me. Now you can just add this - you will be able fix this error much easier, than you think.
